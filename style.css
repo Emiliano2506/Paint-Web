@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background:#a14322
+}
+canvas {
+  display: block;
+  aline:center;
+  margin-left:80px
+}
+h1{
+  font-family: 'Carrois Gothic SC', sans-serif;
+    display: block;
+    text-align: center;
+    Line-height:.8;
+    color: rgb(0, 0, 0);
+}
+button{
+    background: #62cde9;
+    
+}
+.muajaja{
+  width: 20px;
+  height: 20px;
+  margin-right:200px;
+  background: #d4e22b;
+}
+
+.grosor{
+  width: 20px;
+  height: 20px;
+  margin-right:200px;
+  background: #68C8CC;
+}
+.miCanvas{
+  width: 400px;
+  height: 400px;
+  border-width: 10px;
+  background-color:#B8B8B8
+}
